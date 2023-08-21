@@ -1,13 +1,14 @@
 # Top-10-Movies-website-Flask-CRUD
-Deployed Link = 
+Deployed Link -> 
 
 <br>
 <p>Effortlessly oversee your movie collection through intuitive options for Adding, Removing, and Editing, enhanced with seamless integration of TMDB API to automatically fetch details such as release dates, poster images, reviews, and more.<br>
-Technologies - Flask, SQLAlchemy</p>p
+Technologies - Flask, SQLAlchemy</p>
+<br>
 # Mp4
-1 - Not Good Remove this video Later
+<p>1</p>
 https://github.com/MusarrafAM/Top-10-Movies-website-Flask-CRUD/assets/102628794/ae524652-ca38-4378-9447-b24f90a37962
-2 -  Good Video
+<p>2</p>
 https://github.com/MusarrafAM/Top-10-Movies-website-Flask-CRUD/assets/102628794/e48171d6-5cc2-475a-aea6-cc72ed70c983
 
 # ScreenShots
