@@ -6,10 +6,8 @@ Deployed Link ->
 Technologies - Flask, SQLAlchemy</p>
 <br>
 # Mp4
-<p>1</p>
 https://github.com/MusarrafAM/Top-10-Movies-website-Flask-CRUD/assets/102628794/ae524652-ca38-4378-9447-b24f90a37962
-<p>2</p>
-https://github.com/MusarrafAM/Top-10-Movies-website-Flask-CRUD/assets/102628794/e48171d6-5cc2-475a-aea6-cc72ed70c983
+
 
 # ScreenShots
 ![Screenshot (1)](https://github.com/MusarrafAM/Top-10-Movies-website-Flask-CRUD/assets/102628794/d8c9bfe5-8877-4a6e-b12c-fcc8a878ceec)
