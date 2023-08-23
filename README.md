@@ -1,5 +1,5 @@
 # Top-10-Movies-website-Flask-CRUD
-Deployed Link -> 
+<!-- Deployed Link -->
 
 <br>
 <p>Effortlessly oversee your movie collection through intuitive options for Adding, Removing, and Editing, enhanced with seamless integration of TMDB API to automatically fetch details such as release dates, poster images, reviews, and more.<br>
